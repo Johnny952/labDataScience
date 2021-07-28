@@ -1,0 +1,7 @@
+joblib
+fastapi[all]
+tinydb
+imblearn
+numpy
+pandas
+sklearn
